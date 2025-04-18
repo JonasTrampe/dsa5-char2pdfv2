@@ -8,12 +8,15 @@
     },
     {
       "name": "Plushtoast"
+    },
+    {
+      "name": "JonasTrampe"
     }
   ],
   "license": "MIT LICENSE",
   "flags": {},
   "version": "0.7.2",
-  "download": "https://github.com/JonasTrampe/dsa5-char2pdfv2/archive/refs/tags/0.7.2-dev.zip",
+  "download": "https://github.com/JonasTrampe/dsa5-char2pdfv2/archive/refs/tags/0.7.2-dev2.zip",
   "relationships": {
     "systems": [
       {
@@ -37,7 +40,7 @@
     "./lib/FileSaver.js",
     "./lib/pdf-lib.js"
   ], 
-  "url": "https://github.com/Plushtoast/dsa5-char2pdfv2",
-  "manifest": "https://raw.githubusercontent.com/Plushtoast/dsa5-char2pdfv2/main/module.json",
+  "url": "https://github.com/JonasTrampe/dsa5-char2pdfv2",
+  "manifest": "https://raw.githubusercontent.com/JonasTrampe/dsa5-char2pdfv2/refs/tags/0.7.2-dev2/module.json",
   "bugs": "https://github.com/Plushtoast/dsa5-char2pdfv2/issues/new/choose"
 }
