@@ -15,8 +15,8 @@
   ],
   "license": "MIT LICENSE",
   "flags": {},
-  "version": "0.7.2",
-  "download": "https://github.com/JonasTrampe/dsa5-char2pdfv2/archive/refs/tags/0.7.2-dev2.zip",
+  "version": "0.7.3",
+  "download": "https://github.com/JonasTrampe/dsa5-char2pdfv2/archive/refs/tags/0.7.3-dev.zip",
   "relationships": {
     "systems": [
       {
