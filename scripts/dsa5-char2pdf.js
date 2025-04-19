@@ -879,7 +879,8 @@ async function fillForm(dsa_actor_id) {
     var f_special_cleric = Array.from(special_cleric.values(), (value) => value.name).join(', ');
 
     form.getTextField('Held_SF_Karm').setText(f_special_cleric);
-
+    form.flatten();
+    
     /** set PDF Metadata for PDF*/
     pdfDoc.setTitle('DSA5-' + entity.name + '.pdf created on ' + today);
     pdfDoc.setSubject('https://github.com/JWinsen/DSA5-Foundry-VTT-Char2PDF');
